@@ -1,0 +1,1 @@
+﻿﻿﻿﻿**Crítica: Content-Based Recommendation System**En este paper se explican métodos de recomendación basados en cotejar tanto información del usuario como del contenido de los ítems. Se explican métodos lineales, de vecino más cercano, de árboles de decisión basados en reglas y redes bayesianas.

@@ -1,0 +1,1 @@
+﻿﻿**Document Clustering Based On Non-negative Matrix Factoriation**En este paper se propone un método para recomendar ítems a usuarios asignando grupos (clustering) con funciones de membresía basadas en facotirzación matricial.
